@@ -1,0 +1,2 @@
+streamlit run "C:\Users\admin\Desktop\Multiple Disease Prediction\Multiple disease pred.py"
+streamlit run "C:\Users\admin\Desktop\Multiple Disease Prediction\credit card fraud pred.py"
