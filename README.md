@@ -9,7 +9,7 @@ Welcome to my machine learning projects repository! This repository contains a c
    - Dataset used: kaggle datasets download -d arockiaselciaa/creditcardcsv
    - Technologies and libraries used: Python, scikit-learn, TensorFlow, etc.
    - Project status: Completed/In Progress
-   - [Link to project folder or Jupyter Notebook]
+   - credit card fraud detection
 
 2. **Project Name 2**: A brief description of the second project.
    - Dataset used: 
