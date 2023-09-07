@@ -17,21 +17,8 @@ Welcome to my machine learning projects repository! This repository contains a c
    - Project status: Completed
    - https://github.com/RajeshRanaSainaik/CODSOFT/tree/5e04f798709954a9aa9c3cf6764923664a595206/customer%20churn%20prediction
    
-2. ****: A brief description of the se
-   - Dataset used: 
-   - Technologies and libraries used: Python, Pandas, Matplotlib, Seaborn, NumPy, Scikit-learn Metrics, Cross-Validation, Streamlit, Spyder, scikit-learn, TensorFlow, etc.
+3. **Email Spam Classification**: Email spam classification is a fundamental application of machine learning aimed at automatically identifying and filtering out unwanted or malicious emails from your inbox. This project is dedicated to building effective models for classifying emails as either "spam" or "not spam" (ham).
+   - Dataset used: kaggle kernels pull balaka18/email-spam-classification
+   - Technologies and libraries used: Python, Pandas, Tensor-Flow, NumPy, Scikit-learn Metrics, Cross-Validation, Streamlit, Spyder, scikit-learn, TensorFlow, Pycharm etc.
    - Project status: Completed
-   - https://github.com/RajeshRanaSainaik/CODSOFT/tree/5e04f798709954a9aa9c3cf6764923664a595206/customer%20churn%20prediction
-
-
-(Repeat this section for each project in your repository)
-
-## Getting Started
-
-If you want to explore any of the projects, follow these steps:
-
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/yourusername/machine-learning-projects.git
-
+   - https:https://github.com/RajeshRanaSainaik/CODSOFT/tree/75d285b1e2b4f67ae0a8ecb29dec2e30eedb6153/sms%20spam%20detection
